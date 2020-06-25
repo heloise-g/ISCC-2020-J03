@@ -1,0 +1,20 @@
+#titre{
+    position: relative;
+    left: 210px;
+    font-family: Nasalization;
+    font-size: 20px;
+    text-align: left;
+    padding: 5%;
+    color:#8B0000;
+    background-color:rgb(119, 177, 177);
+}
+#photo{
+    position: relative;
+    bottom: 275px;
+    left: 10px
+}
+#navigation{
+    text-align: center;
+    position: relative;
+    bottom: 230px;
+}

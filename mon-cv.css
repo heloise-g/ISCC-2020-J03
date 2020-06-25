@@ -1,0 +1,54 @@
+#titre{
+    position: relative;
+    left: 210px;
+    font-family: Nasalization;
+    font-size: 20px;
+    text-align: left;
+    padding: 5%;
+    color:#8B0000;
+    background-color:rgb(119, 177, 177);
+}
+#photo{
+    position: relative;
+    bottom: 275px;
+    left: 10px
+}
+#navigation{
+    text-align: center;
+    position: relative;
+    bottom: 230px;
+}
+#Profil{
+    background-color: plum;
+    border-color: black;
+    border-style: solid;
+    margin-left: 1%;
+    padding-left: 1%;
+    width: 43%;
+    position: relative;
+    bottom: 150px;
+}
+#Competences{
+    position: relative;
+    left: 800px;
+    bottom: 340px
+}
+#interets{
+    position: relative;
+    bottom: 200px;
+    font-size: medium;
+    background-color: plum;
+    border-color: black;
+    padding-left: 2%;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+#info{
+    background-color:rgb(190, 108, 108);
+    border-style: solid;
+    font-size: large;
+    padding-left: 1%;
+    padding-top: 1%;
+    position: relative;
+    bottom: 150px;
+}

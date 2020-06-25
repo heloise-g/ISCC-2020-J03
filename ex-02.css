@@ -1,0 +1,54 @@
+body {
+    background-color: aliceblue;
+    color: darkslategrey;
+    padding: 10%;
+}
+h1 {
+    font-family: Nasalization;
+    font-size: 45px;
+    text-align: center;
+    padding: 10%;
+    color:#8B0000;
+    text-decoration: underline;
+    text-decoration: black;
+    background-color: black;
+    background-color: black;
+        Opacity:0.20
+}
+h2 {
+    font-family: Nasalization;
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+    color:rgb(178,34,34)
+}
+blockquote {
+    margin: 5%;
+    border-color: black;
+    border-style: solid;
+}
+
+blockquote p {
+    padding: 15px;
+    border-radius: 5px;
+}
+@font-face{
+    font-family: Nasalization; src:url("nasalization-rg.ttf")
+}
+#image{
+    position : relative;
+    left: 50px;
+    top: 5px;
+}
+#video{
+    position: relative;
+    left: 450px;
+    bottom: 150px;
+}
+#son{
+    position: relative;
+    left: 900px;
+    bottom: 200px;
+}
+#green{color: green;}
+.greenyellow{color: greenyellow;}
